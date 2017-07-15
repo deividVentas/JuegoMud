@@ -1,0 +1,4 @@
+Titulo=Escaleras
+Descripcion=Te encuentras bajando las escaleras y entras en una puerta trasera
+Salidas=1 x 3 4 
+NPCS=

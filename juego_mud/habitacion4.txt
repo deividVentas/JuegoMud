@@ -1,0 +1,4 @@
+Titulo=Cuarto de baño 1
+Descripcion=Este es un punto de control donde puedes curarte las heridas y descansar un poco de todo lo que está pasando
+Salidas=x 2 x 4 
+NPCS=

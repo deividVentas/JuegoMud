@@ -1,0 +1,4 @@
+Titulo=Entrada Principal
+Descripcion=Te encuentras ante el salón principal que tiene una mesa con tres velas.
+Salidas=x 2 3 x
+NPCS=Araña|15|13,Esqueleto|25|17|

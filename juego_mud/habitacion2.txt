@@ -1,0 +1,4 @@
+Titulo=Comedor Tenebroso
+Descripcion=Te encuentras en un comedor, donde no hay luz eléctrica, está totalmente a osuras y notas como vas rompiendo tela de araña
+Salidas=x 2 3 4
+NPCS= 

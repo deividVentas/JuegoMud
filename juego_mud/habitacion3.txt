@@ -1,0 +1,4 @@
+Titulo=Pasillo Encantado
+Descripcion=Te estás introduciendo en un pasillo en el que has de pasar a gatas, donde las piedras se te meten en la rodilla, y escuchas voces al otro estremo
+Salidas=x 2 3 4
+NPCS=

@@ -1,0 +1,4 @@
+Titulo=Cocina
+Descripcion=Notas que los pies se pegan al suelo, hay 4 cm de grasa las sartenes están pegadas a la vitroceramica
+Salidas=1 2 3 4
+NPCS=

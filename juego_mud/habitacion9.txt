@@ -1,0 +1,4 @@
+TItulo=Habitacion de muñecos
+Descripcion=Hay muchos payasos tenebrosos, se oyen risas en el fondo, diciendo... Te vamos a matar $Usuario
+Salidas=1 2 3 x
+NPCS=

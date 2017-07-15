@@ -1,0 +1,4 @@
+Titulo=Vestidor
+Descripcion=Te encuentras en un vestidor desastrado, donde no puedes ver el suelo, y las ventans están enegrecidas
+Salidas=1 2 3 x 
+NPCS=

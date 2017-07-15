@@ -1,0 +1,4 @@
+Titulo=Habitacion de matrimonio
+Descripcion=La habitacion amplia, y que esta extrañamente iluminada
+Salidas=1 2 x 4
+NPCS=

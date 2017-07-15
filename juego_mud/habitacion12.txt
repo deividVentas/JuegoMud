@@ -1,0 +1,4 @@
+Titulo=Cochera
+Descripcion=Se abre la puerta y vemos muchos armarios y cajones, hay herramientas de todo tipo, y piezas de coches desmontadas...
+Salidas=1 x x 4
+NPCS=

@@ -1,0 +1,4 @@
+Titulo=Jardin
+Descripcion=Estas saliendo de la casa, pasas por el jardin y hay una cochera al fondo
+Salidas=1 x 3 4 
+NPCS= 

@@ -1,0 +1,71 @@
+#!/bin/bash
+
+function cargando_habitacion {
+ Titulo=$(cat habitacion1.txt|grep Titulo|cut -f2 -d=) 
+ Salidas=$(cat habitacion1.txt|grep Salidas|cut -f2 -d=) 
+ NPCS=$(cat habitacion1.txt|grep NPCS|cut -f2 -d=) 
+ echo "El titulo de la habitacion es $Titulo"
+ echo "Tienes estas $Salidas"
+ echo "Los enemigos son $NPCS"
+}
+
+
+function nuevo_juego {
+  read -p "Introduzca su nombre de usuario " Usuario
+  Usuario_Fuerza=$RANDOM 
+  echo "Cargando el juego espere un momento...$Usuario"
+  echo "Cargando elementos de habitacion.."
+  echo "$Usuario tiene una fuerza de $Usuario_Fuerza" 
+
+}
+
+
+function juego {
+  echo $Titulo
+  echo "Tus opciones son $Salidas"
+  echo "Tienes estos enemigos $NPCS" 
+
+  read -p "Que accion desea hacer" OpcionJuego
+
+  case OpcionJuego in
+    
+  esac
+
+  
+}
+
+
+function menu {
+  echo "Menu de juego"
+  echo "1) Crear un nuevo juego"
+  echo "2) Cargar partida"
+  echo "3) Explicacion del juego"
+  echo "4) Controles"
+  echo "5) Salir"
+  read -p "Introduzca su opcion... " OpcionMenu
+
+
+  case $OpcionMenu in
+    1) 
+      nuevo_juego
+    ;;
+    2)
+      echo "Has elegido la opncion 2"
+    ;;
+    3)
+      echo "Has elegido la opcion 3 Explicacion del juego"
+    ;;
+    4)
+      echo "Has elegido la opcion 4 los controles del juego"
+    ;;
+    5)
+      echo "Saliendo el programa..."
+    ;;
+    *) 
+      echo "Ese codigo no lo contempla" ;;
+  esac
+}
+
+menu 
+
+

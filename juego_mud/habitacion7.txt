@@ -1,0 +1,4 @@
+Titulo=Escaleras
+Descripcion=Estas subiendo las escaleras para estar en el primer piso
+Salidas=1 2 3 4 
+NPCS=
